@@ -1,0 +1,1 @@
+pyinstaller -F installer-english.py -w
